@@ -1,8 +1,5 @@
 import os
 import requests
-from dotenv import load_dotenv
-
-load_dotenv()
 
 url="https://api.nasa.gov/planetary/apod?api_key="
 
