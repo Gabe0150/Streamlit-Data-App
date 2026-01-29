@@ -6,7 +6,7 @@ import os
 
 st.title("Water Quality Dashboard")
 st.header("Internship Ready Software Development")
-st.subheader("Prof. Gregory Reis")
+st.subheader("Gabriel Lopez")
 st.divider()
 
 df = pd.read_csv("biscayneBay_waterquality (3).csv")
